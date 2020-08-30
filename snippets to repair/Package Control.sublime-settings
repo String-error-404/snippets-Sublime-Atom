@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"C++ Classhelper",
+		"C++ Completions",
+		"C++ Snippets",
+		"C++NamespaceTool",
+		"Dracula Color Scheme",
+		"EasyClangComplete",
+		"Package Control",
+		"Python 3",
+		"Python Completions",
+		"Python Debugger",
+		"Selenium Snippets",
+		"Theme - Cyanide",
+		"Theme - Darkmatter",
+		"Theme - SoDaReloaded",
+		"Themr",
+		"ThreatConnect Python Snippets"
+	]
+}
